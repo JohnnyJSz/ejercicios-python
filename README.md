@@ -16,7 +16,7 @@ Ejercicios de programación sacados de [retosdeprogramacion.com](https://retosde
 12. [] - FÁCIL - ELIMINANDO CARACTERES
 13. [] - MEDIO - ¿ES UN PALÍNDROMO?
 14. [✅] - FÁCIL - FACTORIAL RECURSIVO
-15. [] - FÁCIL - ¿ES UN NÚMERO DE ARMSTRONG?
+15. [✅] - FÁCIL - ¿ES UN NÚMERO DE ARMSTRONG?
 16. [] - DIFÍCIL - ¿CUÁNTOS DÍAS?
 17. [] - FÁCIL - EN MAYÚSCULA
 18. [] - MEDIO - LA CARRERA DE OBSTÁCULOS
