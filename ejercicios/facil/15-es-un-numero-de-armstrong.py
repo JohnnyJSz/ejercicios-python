@@ -35,6 +35,7 @@ number3 = 93084
 # Numeros NO Armstrong
 number4 = 146
 number5 = 95432
+number5 = 25
 
 result1 = is_number_armstrong(number1)
 result2 = is_number_armstrong(number2)
