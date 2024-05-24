@@ -21,4 +21,4 @@ Ejercicios de programación sacados de [retosdeprogramacion.com](https://retosde
 17. [✅] - FÁCIL - EN MAYÚSCULA
 18. [] - MEDIO - LA CARRERA DE OBSTÁCULOS
 19. [] - DIFÍCIL - TRES EN RAYA
-20. [] - FÁCIL - CONVERSOR TIEMPO
+20. [✅] - FÁCIL - CONVERSOR TIEMPO
