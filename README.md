@@ -26,7 +26,7 @@ Ejercicios de programación sacados de [retosdeprogramacion.com](https://retosde
 22. [] - MEDIO - CALCULADORA .TXT
 23. [✅] - FÁCIL - CONJUNTOS
 24. [] - MEDIO - MÁXIMO COMÚN DIVISOR Y MÍNIMO COMÚN MÚLTIPLO
-25. [] - FÁCIL - ITERATION MASTER
+25. [✅] - FÁCIL - ITERATION MASTER
 26. [] - MEDIO - PIEDRA, PAPEL, TIJERA
 27. [] - FÁCIL - CUADRADO Y TRIÁNGULO 2D
 28. [] - FÁCIL - VECTORES ORTOGONALES
