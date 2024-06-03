@@ -28,7 +28,7 @@ Ejercicios de programación sacados de [retosdeprogramacion.com](https://retosde
 24. [] - MEDIO - MÁXIMO COMÚN DIVISOR Y MÍNIMO COMÚN MÚLTIPLO
 25. [✅] - FÁCIL - ITERATION MASTER
 26. [] - MEDIO - PIEDRA, PAPEL, TIJERA
-27. [] - FÁCIL - CUADRADO Y TRIÁNGULO 2D
+27. [✅] - FÁCIL - CUADRADO Y TRIÁNGULO 2D
 28. [] - FÁCIL - VECTORES ORTOGONALES
 29. [] - MEDIO - MÁQUINA EXPENDEDORA
 30. [] - FÁCIL - ORDENA LA LISTA
