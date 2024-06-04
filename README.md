@@ -31,4 +31,4 @@ Ejercicios de programación sacados de [retosdeprogramacion.com](https://retosde
 27. [✅] - FÁCIL - CUADRADO Y TRIÁNGULO 2D
 28. [] - FÁCIL - VECTORES ORTOGONALES
 29. [] - MEDIO - MÁQUINA EXPENDEDORA
-30. [] - FÁCIL - ORDENA LA LISTA
+30. [✅] - FÁCIL - ORDENA LA LISTA
