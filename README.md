@@ -2,15 +2,15 @@
 Ejercicios de programación sacados de [retosdeprogramacion.com](https://retosdeprogramacion.com/ejercicios/) by [MoureDev](https://github.com/mouredev) para practicar logica de programación y aprender Python.
 
 ## Listado de ejercicios
-1. [✅] - FÁCIL - EL FAMOSO "FIZZ BUZZ"
-2. [✅] - MEDIO - ¿ES UN ANAGRAMA?
-3. [✅] - DIFÍCIL - LA SUCESIÓN DE FIBONACCI
-4. [✅] - MEDIO - ¿ES UN NÚMERO PRIMO?
-5. [✅] - FÁCIL - ÁREA DE UN PÓLIGONO
-6. [✅] - DIFÍCIL - ASPECT RATIO DE UNA IMAGEN
-7. [✅] - FÁCIL - INVIRTIENDO CADENAS
-8. [✅] - MEDIO - CONTANDO PALABRAS
-9. [✅] - FÁCIL - DECIMAL A BINARIO
+1.  [✅] - FÁCIL - EL FAMOSO "FIZZ BUZZ"
+2.  [✅] - MEDIO - ¿ES UN ANAGRAMA?
+3.  [✅] - DIFÍCIL - LA SUCESIÓN DE FIBONACCI
+4.  [✅] - MEDIO - ¿ES UN NÚMERO PRIMO?
+5.  [✅] - FÁCIL - ÁREA DE UN PÓLIGONO
+6.  [✅] - DIFÍCIL - ASPECT RATIO DE UNA IMAGEN
+7.  [✅] - FÁCIL - INVIRTIENDO CADENAS
+8.  [✅] - MEDIO - CONTANDO PALABRAS
+9.  [✅] - FÁCIL - DECIMAL A BINARIO
 10. [] - MEDIO - CÓDIGO MORSE
 11. [] - MEDIO - EXPRESIONES EQUILIBRADAS
 12. [] - FÁCIL - ELIMINANDO CARACTERES
@@ -32,3 +32,13 @@ Ejercicios de programación sacados de [retosdeprogramacion.com](https://retosde
 28. [] - FÁCIL - VECTORES ORTOGONALES
 29. [] - MEDIO - MÁQUINA EXPENDEDORA
 30. [✅] - FÁCIL - ORDENA LA LISTA
+31. [] - FÁCIL - MARCO DE PALABRAS
+32. [] - FÁCIL - AÑOS BISIESTOS
+33. [✅] - FÁCIL - EL SEGUNDO
+34. [] - MEDIO - CICLO SEXAGENARIO CHINO
+35. [] - FÁCIL - LOS NÚMEROS PERDIDOS
+36. [] - MEDIA - BATALLA POKÉMON
+37. [] - MEDIA - LOS ANILLOS DE PODER
+38. [] - MEDIA - LOS LANZAMIENTOS DE "THE LEGEND OF ZELDA"
+39. [] - MEDIA - BINARIO A DECIMAL
+40. [] - MEDIA - TOP ALGORITMOS: QUICK SORT
